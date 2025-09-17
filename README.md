@@ -1,1 +1,1 @@
-# figma_gihub_sync_test_01
+# figma_github_sync_test_01
